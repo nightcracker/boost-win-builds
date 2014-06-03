@@ -1,4 +1,4 @@
 boost-win-builds
 ================
 
-Place boost inside the repo, then use `<compiler>.bat <boost_dir>`.
+Place boost inside the repo, then use `build_<compiler>.bat <boost_dir>`.
